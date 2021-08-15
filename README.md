@@ -2,7 +2,7 @@
 
 ## What is it?
 
-A semi-interactive reverse shell for **Windows** written in python.
+A semi-interactive reverse shell for **Windows**, written in python.
 
 ## How does it work?
 
